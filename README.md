@@ -1,6 +1,6 @@
-## hello! i'm marco ramirez, a front-end developer based in Bend, OR.
+## hello! i'm marco ramirez, front-end developer based in Bend, OR.
 
-i've been passionate about web development & design since i was 13 years old. it all started with me messing around with the basics of HTML, creating my own personal webpages. 10 years later and i've grown & dedicated myself to learning everything i can about front-end development, aiming to improve upon my skillset by experimenting with code daily.
+i've been passionate about web development & design since i was 13, starting with the basics of HTML and growing from there. ten years later, i've dedicated myself to mastering front-end development, constantly learning and improving upon my skillset by experimenting with code daily.
 
 <!--
 **mramirez0610/mramirez0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
